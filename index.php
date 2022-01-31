@@ -2,8 +2,8 @@
 <html lang="zh">
 
 <head>
-    <title>吃掉小鹿乃</title>
-    <meta itemprop="name" content="吃掉小鹿乃" />
+    <title>吃掉小七奈</title>
+    <meta itemprop="name" content="吃掉小七奈" />
     <meta itemprop="description" content="新概念音游" />
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, width=device-width,target-densitydpi=device-dpi" />
@@ -53,8 +53,8 @@
                     <div class="dropdown">
                         <a class="btn btn-secondary btn-lg" href="javascript: void(0);" role="button" id="mode" data-bs-toggle="dropdown" aria-expanded="false">普通模式</a>
                         <ul class="dropdown-menu" aria-labelledby="mode">
-                            <li><a class="dropdown-item" onclick="changeMode(MODE_NORMAL)">普通模式</a></li>
-                            <li><a class="dropdown-item" onclick="changeMode(MODE_ENDLESS)">无尽模式</a></li>
+                            <li><a class="dropdown-item" onclick="changeMode(MODE_NORMAL)">中辣模式</a></li>
+                            <li><a class="dropdown-item" onclick="changeMode(MODE_ENDLESS)">激辛模式</a></li>
                             <li><a class="dropdown-item" onclick="changeMode(MODE_PRACTICE)">练习模式</a></li>
                         </ul>
                     </div>
